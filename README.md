@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Physical Engineer with additional training in PHP, HTML, and CSS; 3 years of work experience in the technology field; web development with PHP, JavaScript, HTML, and Bootstrap. Skills in initiative and recursion, numerical analysis, commitment, conflict management, listening, self-control, and empathy.</h4>
+<h4 align="left">Physical Engineer with additional training in PHP, HTML, and CSS; 3 years of work experience in the technology field; web development with PHP, JavaScript, HTML, and Bootstrap. Skills in initiative and recursion, numerical analysis, commitment, conflict management, listening, self-control, and empathy.</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -68,30 +68,16 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+----
+## 🔥 My Skills
 
+<div align="center">
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jvilaran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvilaran&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvilaran&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jvilaran" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+[![](https://github-readme-stats.vercel.app/api?username=jvilaran&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jvilaran)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jvilaran&theme=material-palenight)](https://github.com/jvilaran)
+</div>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/jvilaran"><img alt="jvilaran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jvilaran&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+----
 
 <br/>
 
@@ -102,6 +88,13 @@
 	<a href="https://linkedin.com/in/jvilaran-developer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/jhunior.villamilarango/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://instagram.com/jhunior_v.a"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 <hr/>
